@@ -10,5 +10,12 @@
 * [Git - система контроля версий](https://github.com/M-Alex96/Portfolio/blob/main/certificate_git.pdf)
 * [Java для тестировщиков](https://github.com/M-Alex96/Portfolio/blob/main/certificate_java.pdf)
 * [Автоматизированное тестирование](https://github.com/M-Alex96/Portfolio/blob/main/certificate_automation.pdf)
-* [Дипломный блок профессии Тестровщик](https://github.com/M-Alex96/Portfolio/blob/main/certificate_diploma_project.jpeg)
+* [Дипломный блок профессии Тестировщик](https://github.com/M-Alex96/Portfolio/blob/main/certificate_diploma_project.jpeg)
 * [Документы о завершении обучения по программе: "Тестировщик ПО"](https://github.com/M-Alex96/Portfolio/blob/main/certificate_qa.pdf)
+
+## **Резюме**
+
+## Контакты:
+* **Телефон:** +7 (905) 787-67-65
+* **E-mail:** alexm-96@yandex.ru
+* **Telegram:** https://t.me/Alexander_msv
