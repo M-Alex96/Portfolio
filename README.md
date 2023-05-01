@@ -6,9 +6,9 @@
 * [Дипломный проект](https://github.com/M-Alex96/QA-Graduate-Work) - проект, в рамках которого была проведена автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.
 
 ## Сертификаты Нетологии:
-* [Ручное тестирование веб-приложений]
-* [Git - система контроля версий]
-* [Java для тестировщиков]
-* [Автоматизированное тестирование]
-* [Дипломный блок профессии Тестровщик]
-* [Документы о завершении обучения по программе: "Тестировщик ПО"]
+* [Ручное тестирование веб-приложений](https://github.com/M-Alex96/Portfolio/blob/main/certificate_manual.pdf)
+* [Git - система контроля версий](https://github.com/M-Alex96/Portfolio/blob/main/certificate_git.pdf)
+* [Java для тестировщиков](https://github.com/M-Alex96/Portfolio/blob/main/certificate_java.pdf)
+* [Автоматизированное тестирование](https://github.com/M-Alex96/Portfolio/blob/main/certificate_automation.pdf)
+* [Дипломный блок профессии Тестровщик](https://github.com/M-Alex96/Portfolio/blob/main/certificate_diploma_project.jpeg)
+* [Документы о завершении обучения по программе: "Тестировщик ПО"](https://github.com/M-Alex96/Portfolio/blob/main/certificate_qa.pdf)
